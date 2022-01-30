@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 
-class ProjetoExtruturado:
+class ProjExt:
     """
     Gera extrutura de projeto
     """
@@ -63,4 +63,4 @@ class ProjetoExtruturado:
 
 
 if __name__ == "__main__":
-    ProjetoExtruturado()
+    ProjExt("", "")
