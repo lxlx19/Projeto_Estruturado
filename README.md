@@ -1,4 +1,4 @@
-# Construtor de Árvore de projetos
+# Projext - Projeto Extruturado
 
 Esse Script cria todas estrutura de projeto necessário para um projeto simples
 em Python.
