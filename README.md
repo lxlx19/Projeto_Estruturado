@@ -34,4 +34,10 @@ Para obter ajuda, pode utilizar:
 > python3 projext_CLI.py --help
 ```
 
+Para instalar as dependência necessárias para rodas o scrip, use o arquivo requirements.txt
+```
+> pip install -r requirements.txt
+```
+
+
 
