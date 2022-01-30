@@ -63,4 +63,4 @@ class ProjetoExtruturado:
 
 
 if __name__ == "__main__":
-    main()
+    ProjetoExtruturado()
