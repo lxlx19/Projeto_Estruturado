@@ -6,17 +6,18 @@ em Python.
 ## Árvore de projeto
 
 A seguinte arvore de projeto é criada ao executar o script:
-
-    +-- [projectname]/
-    ¦   +-- project/
-    ¦   ¦   +-- main.py
-    ¦   ¦   +-- __init__.py
-    ¦   +-- tests/
-    ¦   ¦   +-- main_tests.py
-    ¦   +-- .gitignore
-    ¦   +-- LICENSE
-    ¦   +-- README.md
-    ¦   +-- requirements.txt
+```
+Nome_Projeto
+├── src
+│   ├── main.py
+│   ├── __init__.py
+│   └── tests
+│       └── tests_main.py
+├── LICENSE
+├── README.md
+├── requirements.txt
+└── .gitignore
+```
 
 ### Instruções
 
