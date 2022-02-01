@@ -6,6 +6,7 @@ em Python.
 ## Árvore de projeto
 
 A seguinte arvore de projeto é criada ao executar o script:
+
 ```
 Nome_Projeto
 ├── src
@@ -24,7 +25,7 @@ Nome_Projeto
 Ao executar o script, você precisa informar apenas o caminho do projeto e o nome do arquivo.
 
 ```
-> python3 projext_CLI.py --option="Diretório" NOME_DO_PROJETO
+> python3 projext_CLI.py --option="./Diretório" NOME_DO_PROJETO
 ```
 
 Caso não sej informado a opção diretório, ele vai criar na própria pasta de execução.
@@ -36,9 +37,7 @@ Para obter ajuda, pode utilizar:
 ```
 
 Para instalar as dependência necessárias para rodas o scrip, use o arquivo requirements.txt
+
 ```
 > pip install -r requirements.txt
 ```
-
-
-
